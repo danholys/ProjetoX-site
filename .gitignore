@@ -1,0 +1,11 @@
+# This repository intentionally contains only the compiled public site.
+.env
+.env.*
+node_modules/
+src/
+supabase/
+*.sql
+*.map
+package.json
+package-lock.json
+vite.config.*
